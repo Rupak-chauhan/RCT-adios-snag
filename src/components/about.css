@@ -1,0 +1,25 @@
+.about{
+    padding: 16px;
+    font-family:serif;
+}
+.about-sec h1{
+    margin-bottom: 30px;
+}
+p{
+    text-align: justify;
+    /* font-style: italic; */
+    font-family:serif;
+    font-size: large;
+}
+.leadership-sec h1, .services-sec h1{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.services-sec li{
+    
+    list-style: none;
+    margin-bottom: 10px;
+}
+.service-sec ul{
+    padding-top: 20px;
+}

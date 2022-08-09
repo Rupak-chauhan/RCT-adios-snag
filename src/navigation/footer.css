@@ -1,0 +1,31 @@
+.footer-cont{
+    background-color: rgb(207 216 247);
+}
+.footer{
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+    padding: 20px;
+}
+.nav-links{
+    list-style: none;
+    margin-left: 0px;
+  padding-left: 0px;
+    
+}
+.nav-links a{
+  text-decoration: none;  
+  color: rgb(55, 70, 86);
+  font-weight: bold;
+}
+.address-sec{
+    width: 50%;
+}
+@media(min-width:480px){
+    .address-sec{
+        width: 30%;
+    }
+    
+} 
